@@ -43,7 +43,7 @@ Solução: Utilização do Livewire para gerenciar componentes dinâmicos de for
 
 ## tecnologias utilizadas
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,tailwindcss,sqlite)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,html,tailwindcss,sqlite)](https://skillicons.dev)
 
 ## como rodar o projeto na sua maquina
 
