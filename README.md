@@ -47,7 +47,33 @@ Solução: Utilização do Livewire para gerenciar componentes dinâmicos de for
 
 ## como rodar o projeto na sua maquina
 
-1.
+1. Clone o Repositório:
+   ```Sh
+        git clone https://github.com/Davi504/freelance-hours.git
+
+   ```
+2. Navegue até o diretório do projeto:
+   ```Sh
+        cd freelance-hours
+   ```
+3. Instale as dependências:
+```sh
+        composer install
+        npm install && npm run build
+```
+4. Configure o arquivo .env com as credenciais do banco de dados e outras configurações necessárias.
+
+5. Rode as migrations para criar as tabelas no banco de dados:
+   ```sh
+        php artisan migrate
+   ```
+
+6. Inicie o servidor de desenvolvimento:
+   ```sh
+        php artisan serve
+   ```
+
+7. Acesse a aplicação em http://localhost:8000.
 
 ## Licença
 
