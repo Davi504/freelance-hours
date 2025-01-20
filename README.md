@@ -65,7 +65,7 @@ Solução: Utilização do Livewire para gerenciar componentes dinâmicos de for
 
 5. Rode as migrations para criar as tabelas no banco de dados:
    ```sh
-        php artisan migrate
+        php artisan migrate --seed
    ```
 
 6. Inicie o servidor de desenvolvimento:
