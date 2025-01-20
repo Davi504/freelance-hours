@@ -6,7 +6,7 @@ FreelanceHours é uma aplicação desenvolvida em PHP, Laravel e Livewire, com T
 
 ## Video da aplicação rodando
 
-[Link](#)
+[Link](https://youtu.be/bfkUYMv5oCs)
 
 ## objetivo
 
