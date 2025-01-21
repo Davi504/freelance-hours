@@ -68,9 +68,9 @@ Solução: Utilização do Livewire para gerenciar componentes dinâmicos de for
 ```
 
 6. Inicie o servidor de desenvolvimento:
-   ```sh
-        php artisan serve
-   ```
+```sh
+    php artisan serve
+```
 
 7. Acesse a aplicação em http://localhost:8000.
 
